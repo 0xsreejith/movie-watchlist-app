@@ -56,7 +56,7 @@ A beautiful, modern Flutter app to manage your movie watchlist with local storag
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/0xsreejith/movie-watchlist-app.git
 cd watchlist_app
 ```
 
